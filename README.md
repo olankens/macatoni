@@ -73,5 +73,5 @@ fileicon set "/Applications/Android Studio.app" "$picture"
 ### PREPARE NODE TOOLING
 
 ```shell
-pnpm install || npm install
+command -v pnpm >/dev/null && pnpm install || npm install
 ```
