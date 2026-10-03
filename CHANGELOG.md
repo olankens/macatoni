@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [1.2.0](https://github.com/olankens/macatoni/compare/v1.1.0...v1.2.0) (2026-10-03)
+
+### FEATURES
+
+* add transmission icon and update readme icon table layout ([5a4cbbd](https://github.com/olankens/macatoni/commit/5a4cbbdf619e52ee35f37c56fa31a2705a54362b))
+
+---
+
 ## [1.1.0](https://github.com/olankens/macatoni/compare/v1.0.0...v1.1.0) (2026-10-03)
 
 ### FEATURES
