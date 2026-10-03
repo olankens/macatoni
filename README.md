@@ -41,9 +41,9 @@
   <tbody><tr>
     <td align="center" width="99999"><p align="center"><a href="source/gamehub/gamehub.icns"><img src="source/gamehub/gamehub.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/goland/goland.icns"><img src="source/goland/goland.png" align="center" width="96"></a></p></td>
-    <td align="center" width="99999"><p align="center"><a href="source/iina/iina.icns"><img src="source/iina/iina.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/intellij-idea/intellij-idea.icns"><img src="source/intellij-idea/intellij-idea.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/jdownloader/jdownloader.icns"><img src="source/jdownloader/jdownloader.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/notion/notion.icns"><img src="source/notion/notion.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/obs/obs.icns"><img src="source/obs/obs.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/phpstorm/phpstorm.icns"><img src="source/phpstorm/phpstorm.png" align="center" width="96"></a></p></td>
   </tr></tbody>
