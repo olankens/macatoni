@@ -40,26 +40,34 @@
   </tr></tbody>
   <tbody><tr>
     <td align="center" width="99999"><p align="center"><a href="source/davinci-resolve/davinci-resolve.icns"><img src="source/davinci-resolve/davinci-resolve.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/effectcraft/effectcraft.icns"><img src="source/effectcraft/effectcraft.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/filmcraft/filmcraft.icns"><img src="source/filmcraft/filmcraft.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/gamehub/gamehub.icns"><img src="source/gamehub/gamehub.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/goland/goland.icns"><img src="source/goland/goland.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/iina/iina.icns"><img src="source/iina/iina.png" align="center" width="96"></a></p></td>
-    <td align="center" width="99999"><p align="center"><a href="source/intellij-idea/intellij-idea.icns"><img src="source/intellij-idea/intellij-idea.png" align="center" width="96"></a></p></td>
-    <td align="center" width="99999"><p align="center"><a href="source/jdownloader/jdownloader.icns"><img src="source/jdownloader/jdownloader.png" align="center" width="96"></a></p></td>
   </tr></tbody>
   <tbody><tr>
+    <td align="center" width="99999"><p align="center"><a href="source/intellij-idea/intellij-idea.icns"><img src="source/intellij-idea/intellij-idea.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/jdownloader/jdownloader.icns"><img src="source/jdownloader/jdownloader.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/lightcraft/lightcraft.icns"><img src="source/lightcraft/lightcraft.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/notion/notion.icns"><img src="source/notion/notion.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/obs/obs.icns"><img src="source/obs/obs.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/pdfcraft/pdfcraft.icns"><img src="source/pdfcraft/pdfcraft.png" align="center" width="96"></a></p></td>
+  </tr></tbody>
+  <tbody><tr>
+    <td align="center" width="99999"><p align="center"><a href="source/photocraft/photocraft.icns"><img src="source/photocraft/photocraft.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/phpstorm/phpstorm.icns"><img src="source/phpstorm/phpstorm.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/postman/postman.icns"><img src="source/postman/postman.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/pycharm/pycharm.icns"><img src="source/pycharm/pycharm.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/recordly/recordly.icns"><img src="source/recordly/recordly.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/rider/rider.icns"><img src="source/rider/rider.png" align="center" width="96"></a></p></td>
   </tr></tbody>
   <tbody><tr>
-    <td align="center" width="99999"><p align="center"><a href="source/rider/rider.icns"><img src="source/rider/rider.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/rubymine/rubymine.icns"><img src="source/rubymine/rubymine.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/rustrover/rustrover.icns"><img src="source/rustrover/rustrover.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/transmission/transmission.icns"><img src="source/transmission/transmission.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/utm/utm.icns"><img src="source/utm/utm.png" align="center" width="96"></a></p></td>
+    <td align="center" width="99999"><p align="center"><a href="source/vectorcraft/vectorcraft.icns"><img src="source/vectorcraft/vectorcraft.png" align="center" width="96"></a></p></td>
     <td align="center" width="99999"><p align="center"><a href="source/webstorm/webstorm.icns"><img src="source/webstorm/webstorm.png" align="center" width="96"></a></p></td>
   </tr></tbody>
 </table>

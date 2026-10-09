@@ -9,7 +9,9 @@
     "prepare": "simple-git-hooks"
   },
   "cspell": {
-    "words": []
+    "words": [
+      "artcraft"
+    ]
   },
   "commitlint": {
     "extends": ["@commitlint/config-conventional"],

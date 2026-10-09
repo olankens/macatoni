@@ -1,17 +1,11 @@
 {
-  "extends": ["config:best-practices"],
-  "ignorePresets": ["helpers:pinGitHubActionDigests"],
+  "extends": ["config:recommended"],
   "commitMessageLowerCase": "auto",
   "platformCommit": "enabled",
-  "platformAutomerge": true,
   "packageRules": [
     {
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true
-    },
-    {
-      "matchUpdateTypes": ["major"],
-      "automerge": false
     }
   ]
 }
