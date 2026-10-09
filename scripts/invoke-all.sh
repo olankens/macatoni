@@ -117,7 +117,7 @@ main() {
 
 	# Handle globals
 	local heading="MACATONI"
-	local version="1.0.0" # x-release-please-version
+	local version="1.1.0" # x-release-please-version
 	local website="https://github.com/olankens/macatoni"
 
 	# Handle functions
