@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [1.1.1](https://github.com/olankens/macatoni/compare/v1.1.0...v1.1.1) (2026-10-12)
+
+### APPENDIX
+
+* reorganize readme icon table layout and reduce column count ([fdbd969](https://github.com/olankens/macatoni/commit/fdbd96993f8ecf5396a0faca9affb94a785ac994))
+
+---
+
 ## [1.1.0](https://github.com/olankens/macatoni/compare/v1.0.0...v1.1.0) (2026-10-09)
 
 ### FEATURES
