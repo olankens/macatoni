@@ -12,7 +12,7 @@ main() {
 	local scripts="$(cd "$(dirname "$0")" && pwd)"
 	local icondir="$scripts/../source"
 	local subject="$scripts/../README.md"
-	local maxcols=6
+	local maxcols=5
 
 	# Gather icons
 	local members=()
